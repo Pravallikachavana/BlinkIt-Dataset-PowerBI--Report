@@ -19,11 +19,8 @@ Data Visualization & Dashboard Design
 
 📊 Dashboard Preview
 🖼️ Dashboard Image 1
-<img src="ADD_IMAGE_LINK_1_HERE" width="100%" />
-🖼️ Dashboard Image 2
-<img src="ADD_IMAGE_LINK_2_HERE" width="100%" />
-🖼️ Dashboard Image 3
-<img src="ADD_IMAGE_LINK_3_HERE" width="100%" />
+<img src="https://instasize.com/p/b1e06d804069f9fd3a4a499bf931ba9ba852f7267ce66d14ccb3fb238ce5b8da" width="100%" />
+
 📈 Key KPIs Included
 
 ⭐ Average Rating
