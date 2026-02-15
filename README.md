@@ -19,7 +19,7 @@ Data Visualization & Dashboard Design
 
 📊 Dashboard Preview
 🖼️ Dashboard Image 1
-<img src="https://instasize.com/p/b1e06d804069f9fd3a4a499bf931ba9ba852f7267ce66d14ccb3fb238ce5b8da" width="100%" />
+<img src="Blink it dashboard.png" width="100%" />
 
 📈 Key KPIs Included
 
